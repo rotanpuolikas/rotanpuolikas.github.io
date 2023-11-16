@@ -2,4 +2,4 @@
 
 ![Tux](/content/images/tux.png)
 
-[takasin](./index.md)
+[takasin](index.md)
