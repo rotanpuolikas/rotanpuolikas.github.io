@@ -4,7 +4,7 @@ Tänne pitäis nyt koota drinksureseptejä, mulla ei kauheesti löydy sellasia k
 
 #### Maitopohjaiset
 
-Tässä muutaman maitopohjaisen drinksun reseptit, varoitan kuitenkin, että nämä saattavat liata vaatteesi ja / tai vessasi, josta en ole vastuussa.
+Tässä muutaman maitopohjaisen drinksun reseptit. Varoitan kuitenkin, että nämä saattavat liata vaatteesi ja / tai vessasi, josta en ole vastuussa.
 
 > #### Mambiina
 >
