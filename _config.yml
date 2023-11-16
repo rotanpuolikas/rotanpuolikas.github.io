@@ -21,7 +21,7 @@
 title: Moluen ystävät
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Moluen ystävien infosivusto. Arvosteluja ja reseptejä kaiken maailman 
+  Tervetuloa moluen maailmaan.
 # baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb

@@ -1,5 +1,3 @@
-## Molut inffoo
+## tervetuloa tän sivun repoon
 
-Hello world!
-
-Täältä saat infoa moluesta
+eipä täällä ole paljoa sanottavaa vielä
