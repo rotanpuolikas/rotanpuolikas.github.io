@@ -1,2 +1,5 @@
 title: molut reseptit verkossa
 description: Molut reseptit ja arvostelut, nyt helposti verkossa!
+theme: jekyll-theme-minima
+minima:
+  skin: dark
