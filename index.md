@@ -8,7 +8,7 @@
 >
 > Jos haluat auttaa tässä projektissa, lähetä mulle omia kummallisia etanolijuomia ja kokemuksia, ja saatan niistä tehdä jonkinlaisen koosteen joskus. Muista kuitenkin, että olen äärimmäisen laiska, joten älä odota uutta sisältöä usein.
 >
-> Alla vähän jotain hauskaa, kanttii kattoo nopee ;)
+> Alla vähän jotain hauskaa, kanttii kattoo nopee ;\)
 >
 > @rotanpuolikas
 
@@ -16,4 +16,7 @@
 ### [Molut-reseptit](/content/reseptit.md)
 
 
-#### [Infoa sivustosta ja muuta hauskaa](/content/infosivu.md)
+### [Drinksut](/content/drinksut.md)
+
+
+### [Infoa sivustosta ja muuta hauskaa](/content/infosivu.md)

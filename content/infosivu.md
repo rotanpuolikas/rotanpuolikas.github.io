@@ -1,6 +1,3 @@
-
-
-
 ### Ota yhteyttä
 
 Jos haluat jotain omaa kontenttia tänne, tai haluat oman molut-arvostelusi sivulle, ole yhteydessä ylläpitäjään.
