@@ -20,3 +20,7 @@
 
 
 ### [Infoa sivustosta ja muuta hauskaa](/content/infosivu.md)
+
+<p align="center">
+    <img src="content/images/molutyhdistaa.webp" width="200">
+</p>

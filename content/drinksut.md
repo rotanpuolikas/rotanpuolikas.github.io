@@ -1,6 +1,6 @@
 ## Kaiken maailman drinksureseptejä
 
-Tänne pitäis nyt koota drinksureseptejä, mulla ei kauheesti löydy sellasia kummallisia kun en vahvempia nauti.
+Täällä on koottuna reseptejä, jaoteltuna pääainesosan mukaan. (toistaiseksi vaan maito ja muut)
 
 ### [Maitopohjaiset herkut](/maitodrinksut.md)
 
