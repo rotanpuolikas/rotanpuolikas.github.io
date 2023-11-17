@@ -47,4 +47,4 @@ Tätä en ole vielä testannut, ja en tiedä haluanko testatakkaan, sillä olen 
 
 Arvosana ?/10.
 
-[Takaisin kategorioihin](/content/drinksut.md)
+[Takaisin kategorioihin](/drinksut.md)

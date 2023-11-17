@@ -36,4 +36,4 @@ Suurena inspiraationa tämän juoman testaamiselle toimi Mobb Deepin kappale 'Su
 Tätähän ei nyt pitäisi ottaa kirjaimellisesti, mutta otin silti. Arvosanaksi tälle annan 4/10. Ei erityisen hyvää mutta maito maskeeraa huonompien viinojen ikävää makua aika hyvin.
 
 
-[Takaisin kategorioihin](/content/drinksut.md)
+[Takaisin kategorioihin](/drinksut.md)
