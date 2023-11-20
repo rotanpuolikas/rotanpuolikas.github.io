@@ -46,6 +46,6 @@ Kiitokset @vale147 ehdotuksesta!
 ~~Tätä en ole vielä testannut, ja en tiedä haluanko testatakkaan, sillä olen aika varma että etanoli liuottaa pussien ulommaisen kerroksen ja vapauttaa myrkylliset aineet juomaan.~~
 Tämä on nyt testattu, ja voi pojat miten pahalta se maistuikaan. Maku oli kuin gintoniciin olisi kaatanut minttuviinaa, eikä juomaa pystynyt juomaan paria hörppyä pidemmälle.
 
-Olen kuitenkin törmännyt kauheampiin juomiin arvosana 4/10.
+Olen kuitenkin törmännyt kauheampiin juomiin, arvosana 4/10.
 
 [Takaisin kategorioihin](/drinksut.md)
