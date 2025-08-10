@@ -1,3 +1,1 @@
-## tervetuloa tän sivun repoon
-
-eipä täällä ole paljoa sanottavaa vielä
+## outdated, eienää käytössä, oli molutweb, ei enää
